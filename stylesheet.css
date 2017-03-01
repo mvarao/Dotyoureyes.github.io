@@ -33,3 +33,7 @@ a{
 	color: black;
 	font: 15px arial, sans-serif;
 }
+
+th{
+	margin: auto;
+}
