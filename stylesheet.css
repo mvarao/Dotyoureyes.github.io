@@ -1,0 +1,35 @@
+body{
+	background-color: #353F2A;
+}
+
+#button{
+	background-color: #00A86B;
+	border-radius: 10px;
+	border: 2px solid black;
+	height: 20px;
+	width: 50px;
+	text-align: center;
+}
+
+#button2{
+	background-color: #00A86B;
+	border-radius: 10px;
+	border: 2px solid black;
+	height: 20px;
+	width: 100px;
+	text-align: center;
+}
+
+#button3{
+	background-color: #00A86B;
+	border-radius: 10px;
+	border: 2px solid black;
+	height: 20px;
+	width: 75px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font: 15px arial, sans-serif;
+}
